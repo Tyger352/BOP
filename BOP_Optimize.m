@@ -1,7 +1,7 @@
  function [] = BOP_Optimize()
 
     clear
-%% short description of the function
+
 % This function is used to optimize the parameters of a chosen Brayton Cycle
 % The optimization is performed using MATLAB's genetic algorithm
 % The function is called by the BOP_Main.m script
